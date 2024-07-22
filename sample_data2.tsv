@@ -1,0 +1,5 @@
+SampleID	Condition	bamReads	conditionSummary
+ESC.1	undiff	/pi/nezar.abdennur-umw/projects/hepatocyte_differentiation_chrombpnet/01_ESC/align/rep1/4DNFIVWIBHN4.trim.srt.nodup.no_chrM_MT.bam	undiff
+ESC.2	undiff	/pi/nezar.abdennur-umw/projects/hepatocyte_differentiation_chrombpnet/01_ESC/align/rep2/4DNFIRULVCWY.trim.srt.nodup.no_chrM_MT.bam	undiff
+HB.1	diff	/pi/nezar.abdennur-umw/projects/hepatocyte_differentiation_chrombpnet/03_HB/align/rep1/HB_ATAC_S1_R1_001.trim.srt.nodup.no_chrM_MT.bam	diff
+HB.2	diff	/pi/nezar.abdennur-umw/projects/hepatocyte_differentiation_chrombpnet/04_iHEP/align/rep1/iHEP_ATAC_S2_R1_001.trim.srt.nodup.no_chrM_MT.bam	diff
